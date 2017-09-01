@@ -1,0 +1,4 @@
+12345
+0 1 ./testcase/file1
+0 1.5 ./testcase/file2
+0 0.8 ./testcase/file3
